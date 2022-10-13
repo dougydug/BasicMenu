@@ -1,6 +1,6 @@
 # BasicMenu
-Basic Menu system WIP
-A basic menu system
+A Basic Menu system - WIP
+
 
 Pressing Escape at any time will exit the program
 
